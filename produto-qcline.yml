@@ -6,7 +6,6 @@ spring:
     username: postgres
     password: post@2806
 
-#JPA
   jpa:
     database-plataform: org.hibernate.dialect.PostgreSQLDialect
     hibernate:
