@@ -4,7 +4,7 @@ spring:
     # Database
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://localhost:5432/qclinedb
+    url: jdbc:postgresql://localhost:5432/produtosdb
     username: postgres
     password: post@2806
     # JPA properties
